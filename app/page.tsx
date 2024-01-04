@@ -16,7 +16,6 @@ export default async function HomePage() {
   return (
     <>
       <ThreeItemGrid />
-      <h1>Holaaa!</h1>
       <Suspense>
         <Carousel />
         <Suspense>
